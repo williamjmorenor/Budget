@@ -1,4 +1,5 @@
 include README.md
+include LICENSE
 include budget/*.css
 include PKGBUILD/*/*.svg
 include PKGBUILD/*/*.png
